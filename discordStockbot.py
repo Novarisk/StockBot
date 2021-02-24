@@ -38,4 +38,4 @@ async def on_ready():
     print(client.user.id)
     print('------')
 
-client.run('INSERT DISCORD TOKEN HERE - Found at https://discordapp.com/developers/applications/')
+client.run('ODEzOTg5OTM4NDkyMjExMjIw.YDXVNA.pKb5Muc05hddkax40iEbQiAICEg - Found at https://discordapp.com/developers/applications/')
